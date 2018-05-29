@@ -3,10 +3,10 @@
   <channel>
     <title>量化小助手</title>
     <description>用来帮助你量化的机器人</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 29 May 2018 16:51:17 +0800</pubDate>
-    <lastBuildDate>Tue, 29 May 2018 16:51:17 +0800</lastBuildDate>
+    <link>/investbot/</link>
+    <atom:link href="/investbot/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 29 May 2018 17:03:03 +0800</pubDate>
+    <lastBuildDate>Tue, 29 May 2018 17:03:03 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
   </channel>
