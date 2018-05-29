@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 接口文档 
-permalink: /labs/
 ---
 
 最新接口以[wiki - 接口文档](https://github.com/martinchenczj/investbot/wiki/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3)为准。

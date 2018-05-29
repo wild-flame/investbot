@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 关于项目
-permalink: /about/
 ---
 
 项目[wiki](https://github.com/martinchenczj/investbot/wiki)
